@@ -1,0 +1,1 @@
+printf("ori oved al za machadas")
